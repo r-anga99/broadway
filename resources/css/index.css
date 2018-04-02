@@ -1,0 +1,16 @@
+body {
+  font-family: Helvetica;
+}
+.main-heading {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.header {
+  background-image: url(C:/Users/grace/broadway/resources/images/the-flatiron-building.png);
+  text-align: center;
+}
+.nav-list {
+  font-size: 18px;
+  color: white;
+}
